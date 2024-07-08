@@ -1,8 +1,7 @@
-# React + Vite
+# Quick Introduction
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+I made this for our Engineering Data Analysis that about statistics and Probability
 
-Currently, two official plugins are available:
+**The Libraries** used for this is
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+- **Vite With React**
